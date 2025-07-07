@@ -1,0 +1,17 @@
+.top{
+    width: 75%;
+    height: 500px;
+    background-color: rgb(202, 18, 46);
+    border: black 2px soild ;
+    font-size: 0.75em;
+    justify-content: center;
+    align-items: center;
+
+}
+.child{
+    width: 50%;
+    height: 250px;
+    background-color: aqua;
+    font-size: 3vh;
+
+}
